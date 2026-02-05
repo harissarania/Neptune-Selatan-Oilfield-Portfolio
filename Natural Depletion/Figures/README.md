@@ -25,7 +25,7 @@ Dynamic snapshots of the reservoir state during the natural depletion phase.
 
 ### Pressure Distribution
 <p align="center">
-  <img src="pres_nat depl w dy wll.png" width="600">
+  <img src="pres_nat depl w dy wll.png" width="500">
   <br>
   <em>Reservoir pressure drawdown across active drainage areas.</em>
 </p>
