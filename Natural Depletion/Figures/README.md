@@ -1,6 +1,6 @@
 # 📊 Natural Depletion Figures
 
-This directory contains visualization outputs for the **Neptune-Selatan Oilfield** under natural depletion scenarios. These figures highlight reservoir properties and fluid dynamics over the production lifetime.
+This directory contains visualization outputs for the **Neptune-Selatan Oilfield** under natural depletion case. These figures highlight reservoir properties and fluid dynamics over the production lifetime.
 
 ---
 
