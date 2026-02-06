@@ -12,6 +12,20 @@ This Power BI dashboard provides a comprehensive analysis of the Neptune Selatan
 - **Cumulative Water Production**: 146.87K sm³
 - **Current Watercut**: 40.68%
 
+## Dashboard Structure
+
+1. **Page 1**: Overview metrics and production comparison
+   <img width="1490" height="854" alt="image" src="https://github.com/user-attachments/assets/e0fd6548-2b3d-443d-8dc2-823256e6c725" />
+
+2. **Page 2**: Recovery analysis and watercut monitoring
+   <img width="1481" height="838" alt="image" src="https://github.com/user-attachments/assets/d4d3c301-5991-4948-ba45-b19eab7e6ecf" />
+
+3. **Page 3**: Injection operations and well performance details
+   <img width="1479" height="833" alt="image" src="https://github.com/user-attachments/assets/4107bf7f-06f7-4098-b77f-644636a1a0db" />
+
+5. **Page 4**: Well performance analysis
+   <img width="1473" height="843" alt="image" src="https://github.com/user-attachments/assets/c5c6be8c-b86f-4adb-ab56-283e3c2b6eae" />
+
 ## Dashboard Components
 
 ### 1. Production Comparison Analysis
@@ -135,21 +149,6 @@ Compares individual well performance across natural depletion and waterflood sce
 - **Water Management**: Implement water shutoff in high watercut wells
 - **Reservoir Simulation**: Update model with actual performance data
 - **Economic Analysis**: Evaluate waterflood economics given negative incremental recovery
-
-## Dashboard Structure
-
-1. **Page 1**: Overview metrics and production comparison
-   <img width="1490" height="854" alt="image" src="https://github.com/user-attachments/assets/e0fd6548-2b3d-443d-8dc2-823256e6c725" />
-
-2. **Page 2**: Recovery analysis and watercut monitoring
-   <img width="1481" height="838" alt="image" src="https://github.com/user-attachments/assets/d4d3c301-5991-4948-ba45-b19eab7e6ecf" />
-
-3. **Page 3**: Injection operations and well performance details
-   <img width="1479" height="833" alt="image" src="https://github.com/user-attachments/assets/4107bf7f-06f7-4098-b77f-644636a1a0db" />
-
-5. **Page 4**: Well performance analysis
-   <img width="1473" height="843" alt="image" src="https://github.com/user-attachments/assets/c5c6be8c-b86f-4adb-ab56-283e3c2b6eae" />
-
 
 ## Technical Specifications
 
