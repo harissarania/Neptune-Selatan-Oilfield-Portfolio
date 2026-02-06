@@ -39,7 +39,7 @@ This plot tracks the efficiency of oil recovery ($N_p$) against the rising water
 ![Watercut and Cumulative Oil](Data/watercut_cum_oil.png)
 
 ## 5. File Directory
-All raw data and generated assets are located in the `Data/` directory:
+All raw data and generated assets are located in the `Data/` and `Figures/` directory:
 
 
 ---
