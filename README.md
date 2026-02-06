@@ -67,4 +67,4 @@ Screening-level evaluation of development costs versus incremental recovery to s
 
 ---
 
-> **⚠️ Disclaimer:** This project is based on a fictional field. All data are synthetic and created solely for educational and portfolio demonstration purposes.
+> **Disclaimer:** This project is based on a fictional field. All data are synthetic and created solely for educational and portfolio demonstration purposes.
