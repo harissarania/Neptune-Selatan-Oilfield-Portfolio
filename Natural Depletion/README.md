@@ -3,7 +3,7 @@
 This project provides a comprehensive analysis of a reservoir's performance under a **Natural Depletion** drive mechanism. The study spans from 2026 to early 2041, evaluating pressure decline, production rates, and overall recovery efficiency.
 
 ## 1. Executive Summary
-The reservoir demonstrates a significant recovery efficiency under natural depletion. Starting with an initial pressure of approximately **236.16 bars**, the field produces a total of **3.78 million sm³** of oil, resulting in a recovery factor of **75.73%**.
+The reservoir demonstrates a significant recovery efficiency under natural depletion. Starting with an initial pressure of approximately **236.16 bars**, the field produces a total of **3.78 million sm³** of oil, resulting in a recovery factor of **16.14%**.
 
 ## 2. Key Reservoir Metrics
 | Parameter | Value |
@@ -12,7 +12,7 @@ The reservoir demonstrates a significant recovery efficiency under natural deple
 | **Final Reservoir Pressure** | 197.58 bars |
 | **Original Oil In Place (OOIP)** | 5,000,000 sm³ |
 | **Cumulative Oil Production (Np)** | 3,786,318 sm³ |
-| **Final Recovery Factor (RF)** | **75.73%** |
+| **Final Recovery Factor (RF)** | **16.14%** |
 
 ## 3. Data Interpretation
 
