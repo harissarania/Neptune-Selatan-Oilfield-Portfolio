@@ -2,15 +2,15 @@
 This dataset simulates a **waterflooding strategy** for the **Neptune Selatan Oilfield**. It is configured as a three-phase model (Oil, Water, and Gas) using metric units. The simulation begins on **January 1, 2026**, and runs through mid-2042.
 
 ## 2. Model Specifications
-**Grid Dimensions**: 19 x 28 x 5 (Total of 2,660 cells).
-**Fluids**: Oil, Water, and Gas.
-**Key Property Includes**:
+* **Grid Dimensions**: 19 x 28 x 5 (Total of 2,660 cells).
+* **Fluids**: Oil, Water, and Gas.
+* **Key Property Includes**:
     * Porosity and Permeability data.
     * Corner point geometry.
-**Initial Conditions**: 
-    **Datum Depth**: 2355.0 m.
-    **Datum Pressure**: 234.46 bar.
-    **Oil-Water Contact (OWC)**: 2395.0 m.
+* **Initial Conditions**: 
+    * **Datum Depth**: 2355.0 m.
+    * **Datum Pressure**: 234.46 bar.
+    * **Oil-Water Contact (OWC)**: 2395.0 m.
 
 ## 3. Well Configuration
 The simulation manages two primary groups of wells located in Group 'G1':
