@@ -27,10 +27,12 @@ As oil is extracted without active water injection, the reservoir pressure decli
 
 ## 4. Visual Analysis
 
-### Pressure and Oil Rate over Time
+### Pressure and Oil Rate Trend
+This plot illustrates the relationship between the depletion of reservoir pressure and the daily oil production rates.
 ![Pressure and Oil Rate](data/pressure_oil_rate.png)
 
-### Watercut and Cumulative Oil Production
+### Watercut and Cumulative Recovery
+This plot tracks the efficiency of oil recovery ($N_p$) against the rising watercut.
 ![Watercut and Cumulative Oil](data/watercut_cum_oil.png)
 
 ## 5. File Structure
