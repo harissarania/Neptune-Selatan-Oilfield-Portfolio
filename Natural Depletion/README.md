@@ -1,17 +1,17 @@
 # Reservoir Analysis: Natural Depletion Case
 
-This project provides a comprehensive analysis of a reservoir's performance under a **Natural Depletion** drive mechanism. The study spans from 2026 to early 2041, evaluating pressure decline, production rates, and overall recovery efficiency.
+This project provides a comprehensive analysis of a reservoir's performance under a **Natural Depletion** drive mechanism. The study spans from 2026 to mid 2042, evaluating pressure decline, production rates, and overall recovery efficiency.
 
 ## 1. Executive Summary
-The reservoir demonstrates a significant recovery efficiency under natural depletion. Starting with an initial pressure of approximately **236.16 bars**, the field produces a total of **3.78 million sm³** of oil, resulting in a recovery factor of **16.14%**.
+The reservoir demonstrates a significant recovery efficiency under natural depletion. Starting with an initial pressure of approximately **236.16 bars**, the field produces a total of **3,786.32 sm³** of oil, resulting in a recovery factor of **16.14%**.
 
 ## 2. Key Reservoir Metrics
 | Parameter | Value |
 | :--- | :--- |
 | **Initial Reservoir Pressure** | 236.16 bars |
 | **Final Reservoir Pressure** | 197.58 bars |
-| **Original Oil In Place (OOIP)** | 5,000,000 sm³ |
-| **Cumulative Oil Production (Np)** | 3,786,318 sm³ |
+| **Original Oil In Place (OOIP)** | 23,452 sm³ |
+| **Cumulative Oil Production (Np)** | 3,786.32 sm³ |
 | **Final Recovery Factor (RF)** | **16.14%** |
 
 ## 3. Data Interpretation
@@ -23,7 +23,7 @@ As oil is extracted without active water injection, the reservoir pressure decli
 
 ### Watercut and Cumulative Production
 - **Watercut:** The watercut remains very low for the majority of the field life, indicating a strong oil-productive window before significant water breakthrough. By the end of the period, watercut reaches approximately **0.24 (24%)**.
-- **Cumulative Production:** The "Oil Total" curve shows a steady upward trajectory, reaching the final cumulative value of **3.78 million sm³**.
+- **Cumulative Production:** The "Oil Total" curve shows a steady upward trajectory, reaching the final cumulative value of **3,786.32 sm³**.
 
 ## 4. Visual Analysis
 
