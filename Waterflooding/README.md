@@ -39,11 +39,8 @@ This plot tracks the efficiency of oil recovery ($N_p$) against the rising water
 ![Watercut and Cumulative Oil](Data/watercut_cum_oil.png)
 
 ## 5. File Directory
-All raw data and generated assets are located in the `data/` directory:
-* `data/waterflood_analysis.xlsx - Waterflood Data.csv`: Daily time-series of pressure, rates, and totals.
-* `data/waterflood_analysis.xlsx - Recovery Factor Calculation.csv`: Final RF analysis and OOIP assumptions.
-* `data/reservoir_pressure_oil_rate.png`: Visualized pressure-production relationship.
-* `data/watercut_cumulative_oil.png`: Visualized watercut-recovery relationship.
+All raw data and generated assets are located in the `Data/` directory:
+
 
 ---
 *Note: This case study specifically models **Waterflooding**. A continuous injection of 1,000 sm³/day was utilized to support reservoir energy and sweep oil.*
