@@ -36,10 +36,7 @@ This plot tracks the efficiency of oil recovery ($N_p$) against the rising water
 ![Watercut and Cumulative Oil](Data/watercut_cum_oil.png)
 
 ## 5. File Structure
-- `data/pressure_oil_rate.png`: Plot of pressure and oil rate.
-- `data/watercut_cum_oil.png`: Plot of watercut and cumulative oil.
-- `data/Reservoir Data.csv`: Time-series data including pressure, oil rates, watercut, and cumulative totals.
-- `data/Recovery Factor Calculation.csv`: Summary table calculating the final recovery efficiency based on OOIP.
+All raw data and generated assets are located in the `Data/` and `Figures/` directory.
 
 ---
 *Note: This analysis assumes a natural depletion drive where no external water injection is utilized to maintain pressure.*
