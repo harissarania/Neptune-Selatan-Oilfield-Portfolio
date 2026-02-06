@@ -1,6 +1,6 @@
 # Reservoir Analysis: Waterflood Performance Case
 
-This repository contains the performance analysis for a reservoir operating under a **Waterflood** drive mechanism. The study evaluates the reservoir's pressure maintenance and production efficiency from 2026 through 2041.
+This repository contains the performance analysis for a reservoir operating under a **Waterflood** drive mechanism. The study evaluates the reservoir's pressure maintenance and production efficiency from 2026 through 2042.
 
 ## 1. Executive Summary
 Based on the simulation data, the reservoir demonstrates a steady recovery profile supported by active water injection. By injecting water to displace oil, the project has recovered **26.43%** of the Original Oil In Place (OOIP) over a 15-year period. The injection strategy has helped mitigate pressure decline, maintaining the reservoir at **204.17 bars** at the end of the simulation.
@@ -12,8 +12,8 @@ The following metrics were derived from the `Recovery Factor Calculation.csv`:
 | :--- | :--- |
 | **Initial Reservoir Pressure ($P_i$)** | 235.93 bars |
 | **Final Reservoir Pressure ($P_f$)** | 204.17 bars |
-| **Original Oil In Place (OOIP)** | 9,951,000 sm³ |
-| **Cumulative Oil Production ($N_p$)** | 2,629,626 sm³ |
+| **Original Oil In Place (OOIP)** | 9,951 sm³ |
+| **Cumulative Oil Production ($N_p$)** | 2,629.63 sm³ |
 | **Final Recovery Factor (RF)** | **26.43%** |
 
 ## 3. Data Interpretation
