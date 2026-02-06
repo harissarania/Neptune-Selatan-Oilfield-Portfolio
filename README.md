@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project presents an end-to-end integrated oil and gas field study covering reservoir modeling, production performance diagnostics, and techno-economic screening. 
 
 The study utilizes a fictional offshore carbonate field (**Neptune Selatan**) to demonstrate a complete reservoir engineering workflow—from building a numerical model to generating data-driven development strategies.
@@ -14,14 +14,14 @@ The study utilizes a fictional offshore carbonate field (**Neptune Selatan**) to
 
 ---
 
-## 🛢️ Field Description
+## Field Description
 * **Field Name:** Neptune Selatan Oilfield (Fictional)
 * **Location:** Offshore Malaysia
 * **Reservoir Type:** Carbonate
 * **Drive Mechanisms:** Solution gas drive with peripheral waterflood support
 * **Development Concept:** Active producers supported by peripheral water injection
 
-## 💻 Technical Model Specifications
+## Technical Model Specifications
 The model was developed in **tNavigator** to simulate realistic subsurface behavior and generate production datasets for further analytics.
 
 | Feature | Details |
@@ -34,7 +34,7 @@ The model was developed in **tNavigator** to simulate realistic subsurface behav
 
 ---
 
-## 🚀 Project Workflow & Structure
+## Project Workflow & Structure
 
 ### 1. Reservoir Modeling & Simulation
 Development of a simplified but realistic simulation model to evaluate pressure maintenance and fluid flow.
@@ -54,12 +54,12 @@ Screening-level evaluation of development costs versus incremental recovery to s
 
 ---
 
-## 📈 Key Results & Insights
+## Key Results & Insights
 * **Pressure Maintenance:** Waterflooding significantly arrested pressure decline and stabilized production rates.
 * **Efficiency:** Identified specific producer-well sensitivities to water injection, highlighting the impact of the carbonate fabric on sweep efficiency.
 * **Data Readiness:** Successfully generated a robust synthetic dataset for secondary recovery performance diagnostics.
 
-## 🛠️ Key Skills Demonstrated
+## Key Skills Demonstrated
 * **End-to-End Workflow:** From static properties to dynamic simulation.
 * **Production Diagnostics:** Using data-driven methods to evaluate field health.
 * **Software Proficiency:** Advanced use of industry-standard simulation tools (tNavigator).
