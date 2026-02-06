@@ -1,10 +1,4 @@
-# README: Neptune Selatan Oilfield Waterflood Simulation
-
-This README provides an overview of the Eclipse reservoir simulation dataset for the Neptune Selatan Oilfield.
-
----
-
-## 1. Project Overview
+# 1. Project Overview
 This dataset simulates a **waterflooding strategy** for the **Neptune Selatan Oilfield**. It is configured as a three-phase model (Oil, Water, and Gas) using metric units. The simulation begins on **January 1, 2026**, and runs through mid-2042.
 
 ## 2. Model Specifications
