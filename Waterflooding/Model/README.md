@@ -21,8 +21,8 @@ The simulation manages two primary groups of wells located in Group 'G1':
 | **Injectors** | INJ-1, INJ-2, INJ-3, INJ-4 | Controlled by Water Injection Rate (500 m³/day per well). |
 
 ## 4. Production Schedule Highlights
-**Initial Production (2026)**: Producers start at 200 m³/day, stepping down to 100 m³/day and then 50 m³/day through the first year.
-**Pressure Maintenance**: Continuous water injection at 500 m³/day per well to support reservoir pressure.
-**Cyclic Operation (2031–2042)**: The schedule features a repeated pattern of shutting in producers for the first 15 days of every year (likely for buildup testing or workover simulation) followed by production at 150 m³/day.
+***Initial Production (2026)**: Producers start at 200 m³/day, stepping down to 100 m³/day and then 50 m³/day through the first year.
+***Pressure Maintenance**: Continuous water injection at 500 m³/day per well to support reservoir pressure.
+***Cyclic Operation (2031–2042)**: The schedule features a repeated pattern of shutting in producers for the first 15 days of every year (likely for buildup testing or workover simulation) followed by production at 150 m³/day.
 
 ---
