@@ -1,4 +1,4 @@
-# Neptune-Selatan-Oilfield-Portfolio
+# Neptune Selatan Oilfield
 
 ### Integrated Reservoir Simulation, Production Analytics & EOR Studies
 **Tools:** `tNavigator` | `Microsoft Excel` | `Power BI`
